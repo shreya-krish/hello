@@ -1,0 +1,5 @@
+f=open("data","r")
+x=f.readline()
+x=f.readline()
+x=f.readlines()
+print(x)
